@@ -1,0 +1,8 @@
+streamlit>=1.40
+ddgs>=9.0
+requests>=2.31
+pypdf>=5.0
+chromadb>=1.0
+reportlab>=4.2
+arabic-reshaper>=3.0
+python-bidi>=0.6

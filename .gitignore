@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+mira_data.sqlite3
+.env
+chroma_db/
+.streamlit/secrets.toml
